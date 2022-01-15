@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/igotchu/static/css/main.434d85ca.css",
+    "main.js": "/igotchu/static/js/main.addba404.js",
+    "index.html": "/igotchu/index.html",
+    "main.434d85ca.css.map": "/igotchu/static/css/main.434d85ca.css.map",
+    "main.addba404.js.map": "/igotchu/static/js/main.addba404.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.434d85ca.css",
+    "static/js/main.addba404.js"
+  ]
+}
