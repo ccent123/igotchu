@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/igotchu/static/css/main.434d85ca.css",
-    "main.js": "/igotchu/static/js/main.041084f4.js",
+    "main.js": "/igotchu/static/js/main.44682b3e.js",
     "index.html": "/igotchu/index.html",
     "main.434d85ca.css.map": "/igotchu/static/css/main.434d85ca.css.map",
-    "main.041084f4.js.map": "/igotchu/static/js/main.041084f4.js.map"
+    "main.44682b3e.js.map": "/igotchu/static/js/main.44682b3e.js.map"
   },
   "entrypoints": [
     "static/css/main.434d85ca.css",
-    "static/js/main.041084f4.js"
+    "static/js/main.44682b3e.js"
   ]
 }
